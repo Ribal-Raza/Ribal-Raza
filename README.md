@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-As my educational background is in Computer Engineering, I started with HTML and CSS. Then I jumped to WordPress but quickly found out that it wasn't my interest. So I switched to Javascript and started creating dynamic websites for fun. After my graduation, I started learning React.js and started woking as a junior front-end developer. I aspire to become a full-stack developer.
+As my educational background is in Computer Engineering. After my graduation, I started learning Web development and started working as a junior front-end developer. I aspire to become a full-stack developer.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ribalraza1@gmail.com](mailto:ribalraza1@gmail.com)
 * 🧠  I'm learning NodeJS/Express.js, Next.js and MySQL
 * 🤝  I'm open to collaborating on Front-end side of projects based on React.js
-* ⚡  I am superman and my public identity is Ribal Raza 😂
+
 
 ### Skills
 
